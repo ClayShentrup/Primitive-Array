@@ -8,7 +8,7 @@ Gem::Specification.new do |s|
   s.platform    = Gem::Platform::RUBY
   s.authors     = ['clay shentrup']
   s.email       = ['clay@brokenladder.com']
-  s.homepage    = ''
+  s.homepage    = 'http://www.electology.org/'
   s.summary     = 'Java array primitive'
   s.description = 'Approximates a Java primitive array'
 
